@@ -1,0 +1,20 @@
+metric,dimension,category,value
+churn_rate_percent,overall,all,25.7
+avg_monthly_charges,contract,Month-to-month,67.36
+avg_monthly_charges,contract,One year,64.93
+avg_monthly_charges,contract,Two year,57.72
+customer_count,tenure_group,New,305.0
+customer_count,tenure_group,Regular,266.0
+customer_count,tenure_group,Loyal,230.0
+customer_count,tenure_group,Champion,199.0
+internet_service_count,internet_service,Fiber optic,431.0
+internet_service_count,internet_service,DSL,356.0
+internet_service_count,internet_service,No,213.0
+churn_vs_tenure_group_count,Champion,No,188.0
+churn_vs_tenure_group_count,Champion,Yes,11.0
+churn_vs_tenure_group_count,Loyal,No,196.0
+churn_vs_tenure_group_count,Loyal,Yes,34.0
+churn_vs_tenure_group_count,New,No,160.0
+churn_vs_tenure_group_count,New,Yes,145.0
+churn_vs_tenure_group_count,Regular,No,199.0
+churn_vs_tenure_group_count,Regular,Yes,67.0
